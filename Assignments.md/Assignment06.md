@@ -12,6 +12,6 @@
         </h4>
     </body>
     <footer>
-        <h3>Footer</h3>
+        <h6>By: Maddox Schwede</h6>
     </footer>
 </html>
