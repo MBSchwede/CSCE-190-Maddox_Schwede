@@ -8,7 +8,7 @@
         <h4>
             Problem Statement: Drunk driving near 5 points happens commonly at night.
             We see many drivers create a dangerous environment around this place that
-            SHOULD be a fun area.
+            SHOULD be a fun and safe area.
         </h4>
     </body>
     <footer>
