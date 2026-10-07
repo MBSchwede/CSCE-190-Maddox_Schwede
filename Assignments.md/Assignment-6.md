@@ -11,7 +11,10 @@
             SHOULD be a fun and safe area.
         </h4>
         <h4>
-           <b>Refined Statement:</b> 
+           <b>Solution Statement:</b> Since this problem happens near and on the weekend.<br>
+            The cause of this problem is alchohol, which comes from bars. We plan to<br>
+            renovate 50% of the bars into other stores. While this will make people upset,<br>
+            we predict accidents wil decrease by 83%. 
         </h4>
     </body>
     <footer>
