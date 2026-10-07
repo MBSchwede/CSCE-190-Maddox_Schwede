@@ -15,8 +15,8 @@
            <b>Solution Statement:</b><br>
             Since this problem happens near and on the weekend.<br>
             The cause of this problem is alchohol, which comes from bars. We plan to<br>
-            renovate 50% of the bars into other stores suggested through surveys. While this will make people upset,<br>
-            we predict accidents wil decrease by 83%. 
+            renovate 50% of the bars into other stores suggested through surveys.<br>
+             While this will make people upset, we predict accidents wil decrease by 83%. 
         </h4>
     </body>
     <footer>
