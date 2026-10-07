@@ -10,7 +10,6 @@
             We see many drivers create a dangerous environment around this place that<br>
             SHOULD be a fun and safe area.
         </h4>
-        <br>
         <h4>
            <u>Refined Statement:</u>  
         </h4>
