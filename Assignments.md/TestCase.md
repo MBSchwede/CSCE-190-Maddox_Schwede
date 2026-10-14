@@ -11,6 +11,6 @@
         </ol>
     </body>
     <footer>
-        <h3>Maddox Schwede</h3>
+        <h6>Maddox Schwede</h6>
     </footer>
 </html>
